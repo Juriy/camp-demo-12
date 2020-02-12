@@ -1,5 +1,4 @@
 The best project ever
 
 type "START" to open application
-
-Project By Jenny
+Project By Jenny and Bobby
